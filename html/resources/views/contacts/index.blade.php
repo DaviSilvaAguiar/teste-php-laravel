@@ -1,4 +1,3 @@
-<!-- resources/views/contacts/index.blade.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
