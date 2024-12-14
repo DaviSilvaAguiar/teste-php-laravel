@@ -65,4 +65,3 @@ class ContactController extends Controller
         return redirect()->route('contacts.index'); // Redireciona para a lista de contatos
     }
 }
-
